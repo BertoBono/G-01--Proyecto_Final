@@ -1,4 +1,4 @@
-# G01-TPI-2CUAT
+# G[01]-Proyecto_Final
 Juego Online 'WORDS.inc' 
 
 ## Presupuesto:
